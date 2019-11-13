@@ -13,4 +13,6 @@ Example: find all places that contain 'restaurant' under a radius of 10 miles fr
         
 Included is a database for Rhode Island, my home state, and Iceland. Additional databases may be found online.
 
+The HTML file index.html can be used to view the map of all POIs in a query.
+
 POIGPS uses K-dimenstional trees to optimize runtime. I created classes for both K-dimensional trees and linked lists, experimenting with writing locations on the map to each data structure, and compared the runtimes for both scenarios. Our group's findings can be read about in Report-2.pdf.

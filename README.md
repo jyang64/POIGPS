@@ -11,3 +11,6 @@ The bash command is as follows:
 Example: find all places that contain 'restaurant' under a radius of 10 miles from 42.34,-71.10 in boston.txt
         ./search-map 42.34 -71.10 10 restaurant boston.txt
         
+Included is a database for Rhode Island, my home state, and Iceland. Additional databases may be found online.
+
+POIGPS uses K-dimenstional trees to optimize runtime. I created classes for both K-dimensional trees and linked lists, experimenting with writing locations on the map to each data structure, and compared the runtimes for both scenarios. Our group's findings can be read about in Report-2.pdf.
